@@ -65,7 +65,7 @@ import numpy as np
 ```
 
 ## Usage/Examples
-In this project I used my favorite Youtuber, [Ryan Trahan's](https://www.youtube.com/@ryan) channel, but you can replace the url with any youtbe channel of your choice. However, makesure the url follows a similar format as the one down below.
+In this example, I used my favorite YouTuber, [Ryan Trahan's](https://www.youtube.com/@ryan) channel, but you can replace the URL with any YouTube channel of your choice. However, make sure the URL follows a similar format to the one below.
 
 ```python
 urls=['https://www.youtube.com/@ryan/videos']
